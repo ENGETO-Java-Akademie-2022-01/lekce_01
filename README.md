@@ -37,9 +37,7 @@ Pokud jsi narazil(a) při instalaci na problém, napiš nám na Slack, nebo to m
  
 ## Samostudium
 
- - [Programování a Java v&nbsp;Java #1](https://learn.engeto.com/cs/kurz/java-1-uvod-do-programovani/studium/nmKzyzg5TKqZtXXx8-yYaQ/zaciname-s-javou/co-je-programovani/programatori-a-programovaci-jazyky)
-
-  - [Proměnné a&nbsp;datové typy (první část kapitoly — objekty budou až příště)](https://learn.engeto.com/cs/kurz/java-1-uvod-do-programovani/studium/u2B-FJ11Q5mW6MDi-B6GSg/popis-dat-promenne-objekty/promenne-a-datove-typy/promenne)
+ - [Java #1: Zápis kódu v&nbsp;Javě](https://learn.engeto.com/cs/kurz/java-1-zapis-kodu-v-jave)
 
 
 ## Úkoly
